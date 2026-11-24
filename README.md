@@ -1,10 +1,12 @@
 # ADASA WAHDA V1.0 — Lite
-**عدسة واحدة** — a user-led, cross-domain AI workflow and verification skill.
+عدسة واحدة — a user-led AI production and verification framework.
 
-**Free edition:** Download the official Lite ZIP from the owner, upload it to an AI chat or agent capable of inspecting ZIP contents, and request: `فعّل اسكيل عدسة واحدة. اقرأ SKILL.md وCORE.md وACTIVATION.md، واذكر أدوات التشغيل التي تحققت منها فعليًا.`
+## Free download
+[Download ADASA WAHDA V1.0 Lite](https://github.com/ahmeddev-hash/adasa-wahda-lite/raw/refs/heads/main/ADASA-WAHDA-V1.0-LITE%281%29.zip)
 
-If ZIP reading is not supported, extract and provide the platform-supported core files. Activation is normally scoped to the chat unless the platform has persistent skill support.
+Upload the ZIP to an AI assistant that can inspect archives, then ask:
+`فعّل اسكيل عدسة واحدة. اقرأ SKILL.md وCORE.md وACTIVATION.md، واذكر أدوات التشغيل التي تحققت منها فعليًا.`
 
-**Owner:** Ahmed Khaled (أحمد خالد) — © 2026 ADASA WAHDA. All rights reserved in the original work. Third-party libraries retain their independent licenses.
+If archive reading is unsupported, extract and supply the supported core files. Lite works independently of the private Studio repository. Activation is chat-scoped unless the platform provides persistent skill support. Model compliance and actual execution depend on the host capabilities.
 
-Repository setup in progress; distribution files not yet uploaded. No guaranteed elimination of model errors or universal automatic execution.
+Created & Developed by Ahmed Khaled — © 2026 ADASA WAHDA. All rights reserved in original work. Third-party materials retain their licenses.
